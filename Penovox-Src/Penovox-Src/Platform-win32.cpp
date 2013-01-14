@@ -1,0 +1,1 @@
+/* Win32 Platform related stuff goes here */
